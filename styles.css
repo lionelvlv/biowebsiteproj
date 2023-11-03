@@ -41,3 +41,19 @@ label {
     display: block;
     margin: 0.5em;
 }
+
+.back-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4CAF50;  /* Green background */
+    color: white;               /* White text */
+    border: none;
+    border-radius: 5px;         /* Rounded corners */
+    text-decoration: none;      /* Removes the underline from the link */
+    cursor: pointer;            /* Makes it look clickable */
+    transition: background-color 0.3s; /* Smooth transition effect */
+}
+
+.back-button:hover {
+    background-color: #45a049;  /* Slightly darker green on hover */
+}
