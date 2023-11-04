@@ -31,29 +31,28 @@ header {
     height: auto;
 }
 
-#start-quiz {
-    background-color: #f9f9f9;
-    padding: 1em;
-    text-align: center;
-}
-
 label {
     display: block;
     margin: 0.5em;
 }
 
-.back-button {
-    display: inline-block;
+button, .back-button {
     padding: 10px 20px;
-    background-color: #4CAF50;  /* Green background */
-    color: white;               /* White text */
+    background-color: #4CAF50;  
+    color: white;               
     border: none;
-    border-radius: 5px;         /* Rounded corners */
-    text-decoration: none;      /* Removes the underline from the link */
-    cursor: pointer;            /* Makes it look clickable */
-    transition: background-color 0.3s; /* Smooth transition effect */
+    border-radius: 5px;        
+    text-decoration: none;     
+    cursor: pointer;            
+    transition: all 0.3s;      
+    outline: none;             
 }
 
-.back-button:hover {
-    background-color: #45a049;  /* Slightly darker green on hover */
+button:hover, .back-button:hover {
+    background-color: #45a049;  
+    transform: scale(1.05);     
+}
+
+#start-quiz {
+    text-align: center;
 }
