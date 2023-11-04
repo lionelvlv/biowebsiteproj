@@ -77,8 +77,8 @@ function getRandomQuestions(questionsArray, numQuestions = 5) {
             <p>${q.question}</p>
             ${q.options.map(option => `
             <div class="flex items-center w-full py-4 pl-5 m-2 ml-0 space-x-2 border-2 cursor-pointer border-black/10 rounded-xl bg-black/5">
-                <input type="radio" name="q${index}" value="${option}"><p class="ml-6 text-black">${option}</p></input>
-            </div>`)}
+                <label class="ml-6 text-black"><input type="radio" name="q${index}" value="${option}">${option}</input></label>
+            </div>`).join('')}
         `;
 
         quizSection.appendChild(questionDiv);
@@ -95,7 +95,7 @@ function checkAnswers() {
         const questionDiv = answer ? answer.closest('div') : null;
         
         if(questionDiv) {
-            const correctLabel = questionDiv.querySelector(`input[value="${q.answer}"]`).closest('label');
+            const correctLabel = document.querySelector(`input[value="${q.answer}"]`).closest('label');
             correctLabel.style.backgroundColor = "#a4f9a4";
 
             if (answer.value === q.answer) {
