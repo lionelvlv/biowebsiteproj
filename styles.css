@@ -24,6 +24,7 @@ header {
     border: 1px solid #ddd;
     padding: 1em;
     box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s;
 }
 
 .symbol img {
@@ -46,6 +47,10 @@ button, .back-button {
     cursor: pointer;            
     transition: all 0.3s;      
     outline: none;             
+}
+
+.symbol:hover {
+    transform: scale(1.01);
 }
 
 button:hover, .back-button:hover {
