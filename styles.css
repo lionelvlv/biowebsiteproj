@@ -61,3 +61,35 @@ button:hover, .back-button:hover {
 #start-quiz {
     text-align: center;
 }
+
+footer {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+
+footer a {
+    color: #FFF;
+    text-decoration: underline;
+}
+
+footer a:hover {
+    color: #e0e0e0;
+}
+
+/* Button Styles */
+button, .back-button, a.back-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    font-size: 16px; /* Adjust the font-size to keep button size consistent */
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: all 0.3s;
+    outline: none;
+    text-align: center; /* Center the text for the anchor tag button */
+}
