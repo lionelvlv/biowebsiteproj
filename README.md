@@ -1,7 +1,7 @@
 # California's State Symbols Quiz 🌸
 
 <div align="center">
-  <img src="https://t4.ftcdn.net/jpg/03/10/93/73/360_F_310937317_2Rqzv0eyTvenIxOuQqzbtEJR1gBq9HD1.jpg" alt="California Symbols" width="200">
+  <img src="https://t4.ftcdn.net/jpg/03/10/93/73/360_F_310937317_2Rqzv0eyTvenIxOuQqzbtEJR1gBq9HD1.jpg" alt="California Symbols" style="max-width: 80%; height: auto;">
 </div>
 
 Welcome to the **California's State Symbols Quiz**. If you've ever been curious about the beautiful symbols that represent California, this quiz is a delightful way to test your knowledge.
