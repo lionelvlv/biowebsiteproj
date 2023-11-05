@@ -1,7 +1,7 @@
 # California's State Symbols Quiz 🌸
 
 <div align="left">
-  <img src="https://t4.ftcdn.net/jpg/03/10/93/73/360_F_310937317_2Rqzv0eyTvenIxOuQqzbtEJR1gBq9HD1.jpg" alt="California Symbols" style="max-width: 50%; height: auto;">
+  <img src="https://t4.ftcdn.net/jpg/03/10/93/73/360_F_310937317_2Rqzv0eyTvenIxOuQqzbtEJR1gBq9HD1.jpg" alt="California Symbols" style="max-width: 10%; height: auto;">
 </div>
 
 Welcome to the **California's State Symbols Quiz**. If you've ever been curious about the beautiful symbols that represent California, this quiz is a delightful way to test your knowledge.
@@ -14,7 +14,6 @@ This project was also a good way for me to learn and test out Java, CSS, and HTM
 - [Features](#features)
 - [How to Play](#how-to-play)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ---
@@ -42,12 +41,6 @@ If you would like to contribute to the project, your help would be very much app
 - **Bug Reports**: If you find any issues, please kindly report them.
 - **New Questions**: Suggestions for additional questions are always welcome.
 - **Design Enhancements**: If you have ideas for improving the design, they would be warmly received.
-
----
-
-## License
-
-This project is licensed under the MIT License. We appreciate any use or adaptations, and we kindly request that you attribute the original source.
 
 ---
 
