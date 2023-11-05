@@ -49,6 +49,6 @@ If you would like to contribute to the project, your help would be very much app
 For any questions, suggestions, or feedback, please feel free to:
 
 - Visit the project on [GitHub](https://github.com/lionelvlv/biowebsiteproj).
-- Send an email: [your.email@example.com](mailto:lionel.verano.iv@berkeley.edu)
+- Send an email: [lionel.verano.iv@berkeley.edu](mailto:lionel.verano.iv@berkeley.edu)
 
 I hope you enjoy it!
