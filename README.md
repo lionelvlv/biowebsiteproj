@@ -6,7 +6,7 @@ https://lionelvlv.github.io/biowebsiteproj/index.html
 </div>
 
 Welcome to the **California's State Symbols Quiz**. If you've ever been curious about the beautiful symbols that represent California, this quiz is a delightful way to test your knowledge.
-This project was also a good way for me to learn and test out Java, CSS, and HTML!
+This project was also a good way for me to learn and test out JavaScript, CSS, and HTML!
 
 ---
 
