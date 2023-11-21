@@ -12,12 +12,12 @@ header {
     padding: 1em 0;
 }
 
-#welcome {
-    background-color: #4CAF50;
+/* #welcome {
+    background-color: #0e3b10;
     color: white;
     text-align: center;
     padding: 1em 0;
-}
+} */
 
 #symbols {
     display: flex;
@@ -113,5 +113,21 @@ footer i.fab.fa-github {
     font-size: 20px; 
     margin-right: 8px;
     vertical-align: middle;
+}
+
+footer a {
+    display: block; /* Make each link a block element */
+    text-align: center; /* Center-align the text */
+    padding: 5px; /* Add some padding for better spacing */
+    text-decoration: none; /* Optional: to remove underline from links */
+    color: white; /* Set the text color */
+}
+
+footer a:hover {
+    text-decoration: underline; /* Optional: underline on hover */
+}
+
+#BIBLIOGRAPHY h2 {
+    text-align: center;
 }
 
