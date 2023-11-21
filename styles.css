@@ -12,6 +12,13 @@ header {
     padding: 1em 0;
 }
 
+#welcome {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+
 #symbols {
     display: flex;
     justify-content: space-around;
