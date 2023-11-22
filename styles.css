@@ -131,3 +131,24 @@ footer a:hover {
     text-align: center;
 }
 
+#introduction {
+    background-color: #f4f4f4; /* Light gray background */
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#introduction h2 {
+    color: #336699; /* Dark blue */
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+#introduction p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #333333; /* Dark text for readability */
+}
+
+
