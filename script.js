@@ -118,6 +118,18 @@ const questions = [
         options: ["Deserts", "Mountainous regions", "Urban settings", "Wetlands"],
         answer: "Wetlands",
         source: "National Park Service, nps.gov/samo/learn/nature/californiatreefrog.htm"
+    },
+    {
+        question: "What unique mating behavior is observed in the Pacific Treefrog?",
+        options: ["Mating calls vary based on temperature", "Mating in tree canopies", "Laying eggs in saltwater", "Year-round mating season"],
+        answer: "Mating calls vary based on temperature",
+        source: "Brattstrom and Warren (1955)"
+    },
+    {
+        question: "What is a significant threat to the Red-legged Frog's habitat in California?",
+        options:  ["Urban development", "Predation by invasive species", "Climate change", "Overfishing"],
+        answer: "Urban development",
+        source: "Jennings (1995)"
     }
 ];
 
