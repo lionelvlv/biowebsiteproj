@@ -2,7 +2,7 @@
 https://lionelvlv.github.io/biowebsiteproj/index.html
 
 <div align="left">
-  <img src="https://media.discordapp.net/attachments/537460184981962752/1170626141980213308/Screenshot_2023-11-05_at_00-29-59_Californias_State_Symbols.png?ex=6559b98d&is=6547448d&hm=7601bb5e41d651dbb673ae3b4741eb693f3fc3b027551c8383dbbe31b70a6f3e&=&width=1440&height=659" alt="California Symbols" style="max-width: 10%; height: auto;">
+  <img src="https://media.discordapp.net/attachments/537460184981962752/1170626141980213308/Screenshot_2023-11-05_at_00-29-59_Californias_State_Symbols.png?ex=6559b98d&is=6547448d&hm=7601bb5e41d651dbb673ae3b4741eb693f3fc3b027551c8383dbbe31b70a6f3e&=&width=1440&height=659" alt="Website Mockup" style="max-width: 10%; height: auto;">
 </div>
 
 This project is for my California Natural History class, and allowed me to practice JavaScript, HTML, and CSS.
